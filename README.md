@@ -61,5 +61,4 @@
     <p>Phone: +977-98XXXXXXXX</p>
   </div>
 </body>
-</html># Dharmendra-
-My best friend is Aakash Rawal . It is very nice friend in my life 
+</html
